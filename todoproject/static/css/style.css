@@ -1,0 +1,17 @@
+.banner{
+    background-color: #ff8080;
+    width:100%;
+    height:130px;
+    margin-bottom:50px;
+}
+.banner-text{
+    color:black;
+    top:4%;
+    left:44%;
+    position:absolute;
+    transform:transform;
+
+}
+.heading{
+font-size: 60px;
+}
